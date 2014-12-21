@@ -5,7 +5,7 @@
 
 ## Data loading
 # set path
-setwd("S:\\Online_courses\\DataScience_Specialization\\3_Getting_and_cleaning_data\\project\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset")
+#setwd("S:\\Online_courses\\DataScience_Specialization\\3_Getting_and_cleaning_data\\project\\getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset")
 
 ##########################################################################################
 ##1 Merges the training and the test sets to create one data set.

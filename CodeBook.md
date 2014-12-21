@@ -1,5 +1,5 @@
 CodeBook
 ========
 
-script: run_analysis.R
-putput: final_data.txt
+* script: run_analysis.R
+* output: final_data.txt
